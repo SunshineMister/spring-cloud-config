@@ -1,3 +1,5 @@
 user:
   username: this is config-dev
   password: 1
+
+name: this is dev
